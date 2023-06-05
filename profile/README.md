@@ -6,7 +6,8 @@
 
 - Python version: `3.10`
 - Code style: [Google](https://google.github.io/styleguide/pyguide.html)
-    - Modification: 120 line length rather than 80.
+- Code formatting: [Black](https://black.readthedocs.io/en/stable/integrations/editors.html)
+- Modification: 100 line length rather than 80.
 
 ### Frontend
 
