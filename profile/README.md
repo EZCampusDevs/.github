@@ -1,23 +1,3 @@
-# EZCampusDevs
+![EZCampus Logo](https://github.com/EZCampusDevs/.github/assets/48095779/1278ffac-f12e-4e37-80a5-16fcd65ce365)
 
-## Standards
-
-### Backend
-
-- Python version: `3.10`
-- Code style: [Google](https://google.github.io/styleguide/pyguide.html)
-- Code formatting: [Black](https://black.readthedocs.io/en/stable/integrations/editors.html)
-- Modification: 100 line length rather than 80.
-
-### Frontend
-
-## Setup
-
-### Backend
-
-Installing python dependencies:
-```shell
-python -m pip install -r requirements.txt
-```
-
-### Frontend
+EZCampus is a collection of open-source services for enhancing education at higher institutions. Our approach to automation, data visualization, and indexing reduces administrative hassle, improves educational outcomes, and fosters a unified campus community. EZCampus is centered around [ezcampus.org](https://ezcampus.org), our primary platform serving students, faculty and organizations.
